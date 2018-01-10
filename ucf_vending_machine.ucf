@@ -1,0 +1,24 @@
+NET "clk" LOC=P54;
+NET "reset" LOC=P69 | PULLDOWN;
+
+NET "BTN1" LOC=P48 | PULLDOWN;
+NET "BTN2" LOC=P47 | PULLDOWN;
+NET "BTN3" LOC=P41 | PULLDOWN;
+
+NET "product1" LOC=P2;
+NET "product2" LOC=P3;
+NET "product3" LOC=P4;
+NET "delivered" LOC=P5;
+
+NET "an0" LOC=P33;
+NET "an1" LOC=P32;
+NET "an2" LOC=P26;
+NET "an3" LOC=P34;
+
+NET "a" LOC=P25;
+NET "b" LOC=P16;
+NET "c" LOC=P23;
+NET "d" LOC=P21;
+NET "e" LOC=P20;
+NET "f" LOC=P17;
+NET "g" LOC=P83;
